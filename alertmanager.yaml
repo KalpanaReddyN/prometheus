@@ -8,8 +8,8 @@ receivers:
   - name: 'ses'
     email_configs:
       - smarthost: 'email-smtp.us-east-1.amazonaws.com:587'
-        auth_username: 'AKIATCKAODRPJ2AEWWVC'
-        auth_password: "BEgxpHTB76VWGA5ZHs8t5FNfkyOxCY1BW5v7HLi0Q+hI"
+        auth_username: 'AKKA123456789RWVC'
+        auth_password: "BEgx12308hfygstvckwefut378rthi0Q+hI"
         from: 'kalpanareddyneelapu@gmail.com'
         to: 'kalpananeelapu90@gmail.com'
         headers:
